@@ -1,0 +1,46 @@
+1. Buat notasi natural
+	- Mencari Volume Tabung
+	- Mencari Volume Kubus
+
+	*Algoritma Volume_Tabung{Judul}:
+		{Menghitung volume tabung untuk ukuran jari" dan tinggi tertentu.
+	Algoritma menerima masukan jari" sebuah tabung dan tingginya, menghitung volumenya, 
+	lalu cetak volumenya ke piranti keluaran}
+	
+	*Deklarasi:
+	-jari" = real {tipe data bilangan pecahan}
+	-tinggi = real {tipe data bilangan pecahan}
+	-PHI = 3.14 atau 22/7
+
+	*Deskripsi:
+	1. Baca jari-jari dan tinggi
+	2. hitung volume tabung = PHI*r*r*t
+	3. Tampilkan volume ke layar
+	4. Selesai
+
+
+
+	*Algoritma Volume_kubus{Judul}:
+		{Menghitung volume kubus untuk sisi-sisi tertentu.
+	Algoritma menerima masukan sisi-sisi, menghitung volumenya, 
+	lalu cetak volumenya ke piranti keluaran}
+	
+	*Deklarasi:
+	-sisi = real {tipe data bilangan pecahan}
+
+	*Deskripsi:
+	1. Baca sisi-sisi 
+	2. hitung volume kubus = s*s*s 
+	3. Tampilkan volume ke layar
+	4. Selesai
+
+
+
+TUGAS ALPRO
+Buat notasi algoritma dengan natural, flowchart, dan pseudocode
+1. Volume Tabung
+2. Volume Kubus
+
+Kerjakan di ms.word, upload file tersebut di Github folder
+"Pertemuan4" lalu upload url ke forum kulino.
+deadline 1 minggu sebelum pertemuan 
